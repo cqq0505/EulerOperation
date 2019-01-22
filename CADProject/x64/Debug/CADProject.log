@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.15063.0\shared\minwindef.h(127): warning C4005: “CALLBACK”: 宏重定义
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\gl\glut.h(33): note: 参见“CALLBACK”的前一个定义
+  HalfEdge.cpp
+  euler.cpp
+  正在生成代码...
+LINK : fatal error LNK1104: 无法打开文件“glut32.lib”
